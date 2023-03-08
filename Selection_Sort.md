@@ -1,4 +1,4 @@
-## Inserting Sort Aşamaları
+## Insertion Sort Aşamaları
 | Başlangıç | 22 | 27 | 16 | 2 | 18 | 6 |
 |:---------:|:--:|:--:|:--:|:-:|:--:|:-:|                  
 | 1. Aşama  | `22` | 27 | 16 | 2 | 18 | 6 |               
