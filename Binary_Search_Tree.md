@@ -1,9 +1,10 @@
-<h1 align="center" >Binary Search Tree Aşamaları</h1>
+<div align="center">
+<h1 >Binary Search Tree Adımları</h1>
 
-<table align="center" border="1">
+<table border="1">
     <thead>
         <tr>
-            <th colspan=32>1. Aşama</th>
+            <th colspan=32>1. Adım</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -13,10 +14,10 @@
     </tbody>
 </table>
 
-<table align="center" border="1">
+<table border="1">
     <thead>
         <tr>
-            <th colspan=32>2. Aşama</th>
+            <th colspan=32>2. Adım</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -30,10 +31,10 @@
     </tbody>
 </table>
 
-<table align="center" border="1">
+<table border="1">
     <thead>
         <tr>
-            <th colspan=32>3. Aşama</th>
+            <th colspan=32>3. Adım</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -53,10 +54,10 @@
     </tbody>
 </table>
 
-<table align="center" border="1">
+<table border="1">
     <thead>
         <tr>
-            <th colspan=32>4. Aşama</th>
+            <th colspan=32>4. Adım</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -76,10 +77,10 @@
     </tbody>
 </table>
 
-<table align="center" border="1">
+<table border="1">
     <thead>
         <tr>
-            <th colspan=32>5. Aşama</th>
+            <th colspan=32>5. Adım</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -109,10 +110,10 @@
     </tbody>
 </table>
 
-<table align="center" border="1">
+<table border="1">
     <thead>
         <tr>
-            <th colspan=32>6. Aşama</th>
+            <th colspan=32>6. Adım</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -142,10 +143,10 @@
     </tbody>
 </table>
 
-<table align="center" border="1">
+<table border="1">
     <thead>
         <tr>
-            <th colspan=32>7. Aşama</th>
+            <th colspan=32>7. Adım</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -175,10 +176,10 @@
     </tbody>
 </table>
 
-<table align="center" border="1">
+<table border="1">
     <thead>
         <tr>
-            <th colspan=32>8. Aşama</th>
+            <th colspan=32>8. Adım</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -208,10 +209,10 @@
     </tbody>
 </table>
 
-<table align="center" border="1">
+<table border="1">
     <thead>
         <tr>
-            <th colspan=32>9. Aşama</th>
+            <th colspan=32>9. Adım</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -259,10 +260,10 @@
     </tbody>
 </table>
 
-<table align="center" border="1">
+<table border="1">
     <thead>
         <tr>
-            <th colspan=32>10. Aşama</th>
+            <th colspan=32>10. Adım</th>
         </tr>
     </thead>
     <tbody align="center">
@@ -309,3 +310,4 @@
         </tr>
     </tbody>
 </table>
+</div>
