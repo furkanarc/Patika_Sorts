@@ -1,4 +1,5 @@
-<h1 align="center" >Merge Sort Aşamaları</h1>
+<div align="center">
+<h1 >Merge Sort Adımları</h1>
 
 <table align="center" border="1">
     <thead>
@@ -48,6 +49,7 @@
     </tbody>
 </table>
 
-<h1 align="center" >Big-O Gösterimi</h1>
-<h3 align="center" >O(nlogn)</h3>
+<h1 >Big-O Gösterimi</h1>
+<h3 >O(nlogn)</h3>
 
+</div>
